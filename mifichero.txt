@@ -1,0 +1,3 @@
+Fichero de prueba del Ejercicio 8, Curso basico Python.
+Linea añadida de escritura utilizando el modo "w". 
+Otra linea del fichero.
